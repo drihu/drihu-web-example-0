@@ -1,0 +1,11 @@
+{
+  "name": "drihu-web-example-0",
+  "version": "0.1.0",
+  "description": "A simple web page just using HTML & CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Huamani <ricardohuamanip@gmail.com>",
+  "license": "MIT"
+}
